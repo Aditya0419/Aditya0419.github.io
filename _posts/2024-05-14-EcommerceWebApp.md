@@ -39,6 +39,6 @@ Conclusion
 The Wave Clothing Brand Website represents the brand’s commitment to excellence. Its user-friendly design, seamless navigation, and captivating animations make it a standout project.
 
 ## web page : 
-<video controls src="../ecom-clothing.mp4" title="Clothing site"></video>
+<video controls src="https://youtu.be/sg5oxiOxsDg" title="Clothing site"></video>
 
 try it out : (only laptop) https://aditya0419.github.io/Wave-Clothing-Brand-Website-/main.html
