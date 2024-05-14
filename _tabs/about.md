@@ -19,7 +19,7 @@ order: 4
 ### Skills Matrix:
 | Languages        | Frameworks         | Technologies     | Databases  |
 |------------------|--------------------|------------------|------------|
-| ![Java](icons/java.png) ![HTML](icons/html.png) ![CSS](icons/css.png) ![JavaScript](icons/javascript.png) ![Python](icons/python.png) ![EJS](icons/ejs.png) | ![React.js](icons/react.png) ![Node.js](icons/nodejs.png) ![Express](icons/express.png) | ![AWS](icons/aws.png) ![Docker](icons/docker.png) | ![SQL](icons/sql.png) ![MongoDB](icons/mongodb.png) |
+| ![Java](icons/java.png) ![HTML](icons/html.jpeg) ![CSS](icons/css.png) ![JavaScript](icons/js.png) ![Python](icons/python.png) ![EJS](icons/ejs.png) | ![React.js](icons/react.png) ![Node.js](icons/nodejs.png) ![Express](icons/express.png) | ![AWS](icons/aws.png) ![Docker](icons/docker.png) | ![SQL](icons/mysql.png) ![MongoDB](icons/mongo.png) |
 
 
 
@@ -39,10 +39,10 @@ order: 4
    ### Project Timeline:
 - **Operating System Project** ![OS Project](icons/webpage.png)
   - An interactive website illustrating 4 operating system algorithms.
-  - ![HTML](icons/html.png) ![CSS](icons/css.png) ![JavaScript](icons/javascript.png)
+  - ![HTML](icons/html.png) ![CSS](icons/css.png) ![JavaScript](icons/js.png)
 - **Clothing Brand Website** ![Clothing Brand](icons/webpage.png)
   - Wave Clothing Brand’s web technology project, a user-friendly and visually engaging website.
-  - ![HTML](icons/html.png) ![CSS](icons/css.png) ![JavaScript](icons/javascript.png)
+  - ![HTML](icons/html.png) ![CSS](icons/css.png) ![JavaScript](icons/js.png)
 - **WanderLust: Travel Accommodation Platform** ![WanderLust](icons/nodejs.png)
   - Comprehensive accommodation booking platform inspired by Airbnb.
   - ![Node.js](icons/nodejs.png) ![Express](icons/express.png) ![MongoDB](icons/mongodb.png) ![EJS](icons/ejs.png)
