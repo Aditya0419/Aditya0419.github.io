@@ -16,12 +16,6 @@ order: 4
 - **Technologies:** AWS, Docker
 - **Database:** SQL, MongoDB
 
-### Skills Matrix:
-| Languages        | Frameworks         | Technologies     | Databases  |
-|------------------|--------------------|------------------|------------|
-| ![Java](./java.png) ![HTML](./html.jpeg) ![CSS](./css.png) ![JavaScript](./js.png) ![Python](./python.png) ![EJS](./ejs.png) | ![React.js](./react.png) ![Node.js](./nodejs.png) ![Express](./express.png) | ![AWS](./aws.png) ![Docker](./docker.png) | ![SQL](./mysql.png) ![MongoDB](./mongo.png) |
-
-
 
 ### Projects:
 1. **Operating System Project**
@@ -35,17 +29,6 @@ order: 4
 3. **WanderLust: Travel Accommodation Platform**
    - **Tech Stack:** Node.js, Express.js, MongoDB, EJS
    - **Description:** Comprehensive accommodation booking platform inspired by Airbnb. Implemented RESTful APIs for seamless communication between frontend and backend components. Included user authentication and authorization using PASSPORT and validation using JOI. Followed MVC architecture.
-
-   ### Project Timeline:
-- **Operating System Project** ![OS Project](./webpage.png)
-  - An interactive website illustrating 4 operating system algorithms.
-  - ![HTML](./html.png) ![CSS](./css.png) ![JavaScript](./js.png)
-- **Clothing Brand Website** ![Clothing Brand](./webpage.png)
-  - Wave Clothing Brand’s web technology project, a user-friendly and visually engaging website.
-  - ![HTML](./html.png) ![CSS](./css.png) ![JavaScript](./js.png)
-- **WanderLust: Travel Accommodation Platform** ![WanderLust](./nodejs.png)
-  - Comprehensive accommodation booking platform inspired by Airbnb.
-  - ![Node.js](./nodejs.png) ![Express](./express.png) ![MongoDB](./mongodb.png) ![EJS](./ejs.png)
 
 ### Education & Experience:
 - **Education:** Bachelor of Technology in Computer Engineering from Pandit Deendayal Energy University, Current GPA: 9.34/10
