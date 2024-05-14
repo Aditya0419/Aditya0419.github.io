@@ -2,7 +2,7 @@
 title: "Wave Clothing Brand Website"
 date: 14-05-2024
 tags: [project, Ecom , WebApp]
-
+By:
 
 ---
 
@@ -39,6 +39,6 @@ Conclusion
 The Wave Clothing Brand Website represents the brand’s commitment to excellence. Its user-friendly design, seamless navigation, and captivating animations make it a standout project.
 
 ## web page : 
-<video controls src="[text](https://youtu.be/sg5oxiOxsDg)" title="Clothing site"></video>
+<video controls src="(https://youtu.be/sg5oxiOxsDg)" title="Clothing site"></video>
 
-try it out : (only laptop) [text](https://aditya0419.github.io/Wave-Clothing-Brand-Website-/main.html)
+try it out : (only laptop) [website](https://aditya0419.github.io/Wave-Clothing-Brand-Website-/main.html)
