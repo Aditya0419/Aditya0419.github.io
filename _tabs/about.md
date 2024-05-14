@@ -19,7 +19,7 @@ order: 4
 ### Skills Matrix:
 | Languages        | Frameworks         | Technologies     | Databases  |
 |------------------|--------------------|------------------|------------|
-| ![Java](icons/java.png) ![HTML](icons/html.jpeg) ![CSS](icons/css.png) ![JavaScript](icons/js.png) ![Python](icons/python.png) ![EJS](icons/ejs.png) | ![React.js](icons/react.png) ![Node.js](icons/nodejs.png) ![Express](icons/express.png) | ![AWS](icons/aws.png) ![Docker](icons/docker.png) | ![SQL](icons/mysql.png) ![MongoDB](icons/mongo.png) |
+| ![Java](./java.png) ![HTML](./html.jpeg) ![CSS](./css.png) ![JavaScript](./js.png) ![Python](./python.png) ![EJS](./ejs.png) | ![React.js](./react.png) ![Node.js](./nodejs.png) ![Express](./express.png) | ![AWS](./aws.png) ![Docker](./docker.png) | ![SQL](./mysql.png) ![MongoDB](./mongo.png) |
 
 
 
@@ -37,15 +37,15 @@ order: 4
    - **Description:** Comprehensive accommodation booking platform inspired by Airbnb. Implemented RESTful APIs for seamless communication between frontend and backend components. Included user authentication and authorization using PASSPORT and validation using JOI. Followed MVC architecture.
 
    ### Project Timeline:
-- **Operating System Project** ![OS Project](icons/webpage.png)
+- **Operating System Project** ![OS Project](./webpage.png)
   - An interactive website illustrating 4 operating system algorithms.
-  - ![HTML](icons/html.png) ![CSS](icons/css.png) ![JavaScript](icons/js.png)
-- **Clothing Brand Website** ![Clothing Brand](icons/webpage.png)
+  - ![HTML](./html.png) ![CSS](./css.png) ![JavaScript](./js.png)
+- **Clothing Brand Website** ![Clothing Brand](./webpage.png)
   - Wave Clothing Brand’s web technology project, a user-friendly and visually engaging website.
-  - ![HTML](icons/html.png) ![CSS](icons/css.png) ![JavaScript](icons/js.png)
-- **WanderLust: Travel Accommodation Platform** ![WanderLust](icons/nodejs.png)
+  - ![HTML](./html.png) ![CSS](./css.png) ![JavaScript](./js.png)
+- **WanderLust: Travel Accommodation Platform** ![WanderLust](./nodejs.png)
   - Comprehensive accommodation booking platform inspired by Airbnb.
-  - ![Node.js](icons/nodejs.png) ![Express](icons/express.png) ![MongoDB](icons/mongodb.png) ![EJS](icons/ejs.png)
+  - ![Node.js](./nodejs.png) ![Express](./express.png) ![MongoDB](./mongodb.png) ![EJS](./ejs.png)
 
 ### Education & Experience:
 - **Education:** Bachelor of Technology in Computer Engineering from Pandit Deendayal Energy University, Current GPA: 9.34/10
