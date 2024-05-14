@@ -16,6 +16,13 @@ order: 4
 - **Technologies:** AWS, Docker
 - **Database:** SQL, MongoDB
 
+### Skills Matrix:
+| Languages        | Frameworks         | Technologies     | Databases  |
+|------------------|--------------------|------------------|------------|
+| ![Java](icons/java.png) ![HTML](icons/html.png) ![CSS](icons/css.png) ![JavaScript](icons/javascript.png) ![Python](icons/python.png) ![EJS](icons/ejs.png) | ![React.js](icons/react.png) ![Node.js](icons/nodejs.png) ![Express](icons/express.png) | ![AWS](icons/aws.png) ![Docker](icons/docker.png) | ![SQL](icons/sql.png) ![MongoDB](icons/mongodb.png) |
+
+
+
 ### Projects:
 1. **Operating System Project**
    - **Tech Stack:** HTML, CSS, JavaScript
@@ -28,6 +35,17 @@ order: 4
 3. **WanderLust: Travel Accommodation Platform**
    - **Tech Stack:** Node.js, Express.js, MongoDB, EJS
    - **Description:** Comprehensive accommodation booking platform inspired by Airbnb. Implemented RESTful APIs for seamless communication between frontend and backend components. Included user authentication and authorization using PASSPORT and validation using JOI. Followed MVC architecture.
+
+   ### Project Timeline:
+- **Operating System Project** ![OS Project](icons/webpage.png)
+  - An interactive website illustrating 4 operating system algorithms.
+  - ![HTML](icons/html.png) ![CSS](icons/css.png) ![JavaScript](icons/javascript.png)
+- **Clothing Brand Website** ![Clothing Brand](icons/webpage.png)
+  - Wave Clothing Brand’s web technology project, a user-friendly and visually engaging website.
+  - ![HTML](icons/html.png) ![CSS](icons/css.png) ![JavaScript](icons/javascript.png)
+- **WanderLust: Travel Accommodation Platform** ![WanderLust](icons/nodejs.png)
+  - Comprehensive accommodation booking platform inspired by Airbnb.
+  - ![Node.js](icons/nodejs.png) ![Express](icons/express.png) ![MongoDB](icons/mongodb.png) ![EJS](icons/ejs.png)
 
 ### Education & Experience:
 - **Education:** Bachelor of Technology in Computer Engineering from Pandit Deendayal Energy University, Current GPA: 9.34/10
