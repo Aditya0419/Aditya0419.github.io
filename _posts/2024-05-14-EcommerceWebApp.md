@@ -41,4 +41,4 @@ The Wave Clothing Brand Website represents the brand’s commitment to excellenc
 ## web page : 
 <video controls src="../ecom-clothing.mp4" title="Clothing site"></video>
 
-try it out : (only laptop) https://aditya0419.github.io/Wave-Clothing-Brand-Website-/contact.html
+try it out : (only laptop) https://aditya0419.github.io/Wave-Clothing-Brand-Website-/main.html
